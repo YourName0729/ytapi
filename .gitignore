@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# vscode
+.vscode
+
+# personal
+.m4a
+.mp3
+.mp4
+.wav
+personal.json
